@@ -6,7 +6,6 @@ import { Phone, Instagram, Mail } from "lucide-react";
 
 const salonName = "Superlash Beauty Bar";
 const logoSrc = "/images/superlash-logo.png";
-const monogramSrc = "/images/superlash-monogram.png";
 const heroImage = "/hero.jpg";
 const whatsappNumber = "+6586844399";
 const bookingLink = "https://sody.app/superlashsg/book";
@@ -299,14 +298,6 @@ function SalonWebsite({ dynamicInstagramEmbeds }: SalonWebsiteProps) {
               <span className="absolute top-1/3 right-10 h-1.5 w-1.5 rounded-full bg-[#e8d7b9] opacity-50 animate-pulse"></span>
               <span className="absolute bottom-8 left-1/4 h-2 w-2 rounded-full bg-[#f3e2c4] opacity-70 animate-ping"></span>
             </div>
-            {/* Floating monogram emblem */}
-            <div className="absolute -top-6 -left-6 z-20 flex items-center justify-center h-16 w-16 rounded-full bg-[#fffaf4]/80 backdrop-blur border border-[#e0cfbf] shadow-md">
-              <div className="relative">
-                <img
-                  src={monogramSrc}
-                  alt="Superlash Gold Emblem"
-                  className="h-10 w-10 object-contain opacity-95 drop-shadow-md"
-                />
                 <span className="pointer-events-none absolute -top-2 left-1/2 h-2 w-2 rounded-full bg-[#fef3c7] shadow-[0_0_10px_rgba(255,230,180,0.9)] animate-ping" />
                 <span className="pointer-events-none absolute top-3 right-1 h-1.5 w-1.5 rounded-full bg-[#fff7d6] shadow-[0_0_6px_rgba(255,230,180,0.9)] animate-pulse" />
               </div>
@@ -674,11 +665,6 @@ function SalonWebsite({ dynamicInstagramEmbeds }: SalonWebsiteProps) {
       <footer className="bg-[#fffaf4] border-t border-[#e0cfbf] mt-12">
         <div className="max-w-6xl mx-auto px-6 py-10 flex flex-col items-center text-center gap-3">
           <div className="relative flex flex-col items-center gap-2">
-            <img
-              src={monogramSrc}
-              alt="Superlash Monogram Logo"
-              className="h-12 w-12 object-contain opacity-95 drop-shadow-md animate-pulse"
-            />
             <span className="pointer-events-none absolute -top-1 right-[30%] h-2 w-2 rounded-full bg-[#fef3c7] shadow-md animate-ping" />
             <h2 className="text-lg tracking-[0.25em] font-semibold text-[#3b2b22] uppercase">
               Superlash Beauty Bar
