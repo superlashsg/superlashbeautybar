@@ -89,12 +89,12 @@ const nailServices = [
   {
     title: "Classic Gel Manicure + Extensions",
     desc: "Classic manicure with extensions & simple art. Includes overlay, shaping, cuticle care, top coat & nail oil.",
-    price: "$68",
+    price: "$78",
   },
   {
     title: "Nail Add-Ons",
     desc: "3D gel sculpting, intricate drawings, removal only (without new set).",
-    price: "$15 each",
+    price: "$20 each",
   },
 ];
 
