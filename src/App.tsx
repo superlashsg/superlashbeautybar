@@ -429,7 +429,9 @@ function SalonWebsite({ dynamicInstagramEmbeds }: SalonWebsiteProps) {
                       </span>
                     )}
                   </h4>
-                  <p className="text-sm text-[#6b5a4a] mt-2 leading-relaxed">{s.desc}</p>
+                  <p className="text-sm text-[#6b5a4a] mt-2 leading-relaxed whitespace-pre-line">
+  {s.desc}
+</p>
                 </div>
                 <div className="mt-4 flex items-center justify-between">
                   <span className="text-lg font-bold text-[#c89a6c]">{s.price}</span>
