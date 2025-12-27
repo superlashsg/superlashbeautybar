@@ -105,7 +105,9 @@ Unlimited Charms
 Unlimited Colours / Cateye / Ombre / French
 Half-Tip Extensions + Overlay
 
-Includes shaping, cuticle clean-up, diamond top coat & nail oil.`,
+Includes shaping, cuticle clean-up, diamond top coat & nail oil.
+
+XHS Styles Available`,
   price: "$88",
 },
 
