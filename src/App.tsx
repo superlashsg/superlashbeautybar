@@ -99,16 +99,16 @@ XHS Styles Available`,
     price: "$68",
   },
   {
-    title: "Design Gel Manicure + Extensions",
-    desc: `Unlimited Design
+  title: "Design Gel Manicure + Extensions",
+  desc: `Unlimited Design
 Unlimited Charms
 Unlimited Colours / Cateye / Ombre / French
 Half-Tip Extensions + Overlay
 
 Includes shaping, cuticle clean-up, diamond top coat & nail oil.`,
-`,
-    price: "$88",
-  },
+  price: "$88",
+},
+
   {
     title: "Nail Add-Ons",
     desc: "3D gel sculpting, intricate drawings, removal only (without new set).",
