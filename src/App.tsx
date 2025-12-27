@@ -20,8 +20,8 @@ const lashServices = [
   },
   {
     title: "LED Lash Extensions",
-    desc: "Long-lasting, fast curing, reduced sensitivity.",
-    price: "Any Style — Top-up only $50 with Brow/Lip Embroidery",
+    desc: "Natural, volume, hybrid, manga — in LED application for longer retention.",
+    price: "Price Starting from $88 only",
   },
   {
     title: "Lash Infills (Promo)",
@@ -78,18 +78,31 @@ const browLipServices = [
 const nailServices = [
   {
     title: "Classic Gel Manicure",
-    desc: "Single tone / French tips / cat-eye / ombré / glitter. Includes overlay, shaping, cuticle care, top coat & nail oil.",
+    desc: "Unlimited Colours/Cateye/Ombre/Glitter
+
+Includes overlay, shaping, cuticle clean-up,
+diamond top coat, nail oil.",
     price: "$48",
   },
   {
-    title: "Classic Gel Manicure (Art)",
-    desc: "Simple drawings up to 6 fingers, unlimited charms, stickers & glitter. Includes overlay, shaping, cuticle care, top coat & nail oil.",
-    price: "$58",
+    title: "Design Gel Manicure",
+    desc: "Unlimited Design
+Unlimited Charms
+Unlimited Colours/ Cateye / Ombre/ French
+
+Includes overlay, shaping, cuticle clean-up,
+diamond top coat, nail oil.",
+    price: "$68",
   },
   {
-    title: "Classic Gel Manicure + Extensions",
-    desc: "Classic manicure with extensions & simple art. Includes overlay, shaping, cuticle care, top coat & nail oil.",
-    price: "$78",
+    title: "Design Gel Manicure + Extensions",
+    desc: "Unlimited Design
+Unlimited Charms
+Unlimited Colours/ Cateye / Ombre/ French
+
+Includes overlay, shaping, cuticle clean-up,
+diamond top coat, nail oil.",
+    price: "$88",
   },
   {
     title: "Nail Add-Ons",
@@ -100,8 +113,9 @@ const nailServices = [
 
 const promos = [
   {
-    title: "12.12 LUXE FLASH SALE",
-    detail: "Enjoy exclusive festive rates + priority slots!",
+    title: "CNY 2026 EXCLUSIVE PROMO",
+    detail: "WHATSAPP/BOOK DIRECTLY ON SODY
+      NO CNY SURCHARGES FOR ALL PACKAGES AND BUNDLES",
   },
   {
     title: "Glow Hydrate Mini Bottle Gift",
@@ -401,8 +415,8 @@ function SalonWebsite({ dynamicInstagramEmbeds }: SalonWebsiteProps) {
                       "Brow Lamination + Tint",
                       "LED Lash Extensions",
                       "Classic Gel Manicure",
-                      "Classic Gel Manicure (Art)",
-                      "Classic Gel Manicure + Extensions",
+                      "Design Gel Manicure",
+                      "Design Gel Manicure + Extensions",
                     ].includes(s.title) && (
                       <span className="text-[10px] px-2 py-0.5 rounded-full bg-[#c89a6c] text-white font-semibold uppercase">
                         New
