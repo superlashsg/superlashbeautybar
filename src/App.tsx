@@ -6,6 +6,7 @@ import { Phone, Instagram, Mail } from "lucide-react";
 
 const salonName = "Superlash Beauty Bar";
 const logoSrc = "/images/superlash-logo.png";
+const monogramSrc = "/images/superlash-monogram.png";
 const heroImage = "/hero.jpg";
 const whatsappNumber = "+6586844399";
 const bookingLink = "https://sody.app/superlashsg/book";
