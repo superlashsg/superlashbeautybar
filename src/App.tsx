@@ -21,7 +21,7 @@ const lashServices = [
   {
     title: "LED Lash Extensions",
     desc: "Natural, volume, hybrid, manga — in LED application for longer retention.",
-    price: "Price Starting from $88 only",
+    price: "Prices Starting from $88 only",
   },
   {
     title: "Lash Infills (Promo)",
