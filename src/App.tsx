@@ -78,30 +78,30 @@ const browLipServices = [
 const nailServices = [
   {
     title: "Classic Gel Manicure",
-    desc: "Unlimited Colours/Cateye/Ombre/Glitter
+    desc: `Unlimited Colours/Cateye/Ombre/Glitter
 
 Includes overlay, shaping, cuticle clean-up,
-diamond top coat, nail oil.",
+diamond top coat, nail oil.`,
     price: "$48",
   },
   {
     title: "Design Gel Manicure",
-    desc: "Unlimited Design
+    desc: `Unlimited Design
 Unlimited Charms
 Unlimited Colours/ Cateye / Ombre/ French
 
 Includes overlay, shaping, cuticle clean-up,
-diamond top coat, nail oil.",
+diamond top coat, nail oil.`,
     price: "$68",
   },
   {
     title: "Design Gel Manicure + Extensions",
-    desc: "Unlimited Design
+    desc: `Unlimited Design
 Unlimited Charms
 Unlimited Colours/ Cateye / Ombre/ French
 
 Includes overlay, shaping, cuticle clean-up,
-diamond top coat, nail oil.",
+diamond top coat, nail oil.`,
     price: "$88",
   },
   {
@@ -111,11 +111,12 @@ diamond top coat, nail oil.",
   },
 ];
 
+
 const promos = [
   {
     title: "CNY 2026 EXCLUSIVE PROMO",
-    detail: "WHATSAPP/BOOK DIRECTLY ON SODY
-      NO CNY SURCHARGES FOR ALL PACKAGES AND BUNDLES",
+    detail: `WHATSAPP/BOOK DIRECTLY ON SODY
+NO CNY SURCHARGES FOR ALL PACKAGES AND BUNDLES`,
   },
   {
     title: "Glow Hydrate Mini Bottle Gift",
