@@ -91,7 +91,8 @@ Unlimited Charms
 Unlimited Colours/ Cateye / Ombre/ French
 
 Includes overlay, shaping, cuticle clean-up,
-diamond top coat, nail oil.`,
+diamond top coat, nail oil.
+XHS Styles Available`,
     price: "$68",
   },
   {
@@ -99,8 +100,10 @@ diamond top coat, nail oil.`,
     desc: `Unlimited Design
 Unlimited Charms
 Unlimited Colours/ Cateye / Ombre/ French
+Half-Tip Extensions + Overlay
+XHS Styles Available
 
-Includes overlay, shaping, cuticle clean-up,
+Includes shaping, cuticle clean-up,
 diamond top coat, nail oil.`,
     price: "$88",
   },
