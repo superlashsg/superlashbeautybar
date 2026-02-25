@@ -25,8 +25,8 @@ const lashServices = [
   },
   {
     title: "Lash Infills (Promo)",
-    desc: "Includes bottom lash touch-up if applicable.",
-    price: "$38 Promo • Usual: $48 all styles / $68 9D–10D Volume",
+    desc: "Excludes bottom lash touch-up if applicable.",
+    price: "$48 • Usual: $58 all styles / $68 9D–10D Volume",
   },
   {
     title: "LED Lash Add-On",
