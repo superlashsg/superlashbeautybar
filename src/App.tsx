@@ -508,7 +508,7 @@ function SalonWebsite({ dynamicInstagramEmbeds }: SalonWebsiteProps) {
             <div className="mt-4 rounded-2xl overflow-hidden border border-[#e0cfbf]">
               <iframe
                 title="Superlash Beauty Bar map"
-                src="https://www.google.com/maps?q=50B+Phillips+Avenue+Singapore+546996&output=embed"
+                src="https://www.google.com/maps/place/Superlash+Beauty+Bar/@1.3618349,103.8888081,17z/data=!3m1!4b1!4m6!3m5!1s0x31da17853291c659:0x46a6bdf057aa8cae!8m2!3d1.3618349!4d103.891383!16s%2Fg%2F11vk7gr3z2?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D&output=embed"
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
                 className="w-full h-56 md:h-64"
