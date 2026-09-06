@@ -502,13 +502,13 @@ function SalonWebsite({ dynamicInstagramEmbeds }: SalonWebsiteProps) {
         <section id="contact" className="mt-16 grid md:grid-cols-2 gap-8 items-start">
           <div className="bg-[#fffaf4] border border-[#e0cfbf] p-6 rounded-2xl">
             <h3 className="text-xl font-bold mb-3 text-[#c89a6c]">Contact &amp; Location</h3>
-            <p className="text-[#6b5a4a]">Address: 50B Phillips Avenue, Singapore 546996</p>
+            <p className="text-[#6b5a4a]">Address: 111 Tampines Road Trilive Condo S535133 #01-03</p>
             <p className="text-[#6b5a4a] mt-2">Opening Hours: Mon–Sun 10:00 – 22:00</p>
 
             <div className="mt-4 rounded-2xl overflow-hidden border border-[#e0cfbf]">
               <iframe
                 title="Superlash Beauty Bar map"
-                src="https://www.google.com/maps?q=50B+Phillips+Avenue+Singapore+546996&output=embed"
+                src="https://www.google.com/maps/place/Superlash+Beauty+Bar/@1.3618349,103.8888081,17z/data=!3m1!4b1!4m6!3m5!1s0x31da17853291c659:0x46a6bdf057aa8cae!8m2!3d1.3618349!4d103.891383!16s%2Fg%2F11vk7gr3z2?entry=ttu&g_ep=EgoyMDI2MDkwMi4wIKXMDSoASAFQAw%3D%3D&output=embed"
                 loading="lazy"
                 referrerPolicy="no-referrer-when-downgrade"
                 className="w-full h-56 md:h-64"
