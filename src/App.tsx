@@ -502,7 +502,7 @@ function SalonWebsite({ dynamicInstagramEmbeds }: SalonWebsiteProps) {
         <section id="contact" className="mt-16 grid md:grid-cols-2 gap-8 items-start">
           <div className="bg-[#fffaf4] border border-[#e0cfbf] p-6 rounded-2xl">
             <h3 className="text-xl font-bold mb-3 text-[#c89a6c]">Contact &amp; Location</h3>
-            <p className="text-[#6b5a4a]">Address: 50B Phillips Avenue, Singapore 546996</p>
+            <p className="text-[#6b5a4a]">Address: 111 Tampines Road Trilive Condo S535133 #01-03</p>
             <p className="text-[#6b5a4a] mt-2">Opening Hours: Mon–Sun 10:00 – 22:00</p>
 
             <div className="mt-4 rounded-2xl overflow-hidden border border-[#e0cfbf]">
